@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I write more code and speak less
 - ![](https://komarev.com/ghpvc/?username=saineshwar)
 
-![Saineshwar GitHub stats](https://github-readme-stats.vercel.app/api?username=saineshwar&show_icons=true&theme=dracula)
+![Saineshwar GitHub stats](https://github-readme-stats.vercel.app/api?username=saineshwar&show_icons=true&include_all_commits=true&theme=material-palenight)
 
 ## Give a Star ⭐️
 If you find project really helpful in Quick Learning do give it a star. 
