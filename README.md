@@ -9,3 +9,7 @@
 - 😄 Pronouns: Sai
 - ⚡ Fun fact: I write more code and speak less
 - ![](https://komarev.com/ghpvc/?username=saineshwar)
+
+![Saineshwar GitHub stats](https://github-readme-stats.vercel.app/api?username=saineshwar&show_icons=true&theme=dracula)
+
+
